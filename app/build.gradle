@@ -7,6 +7,10 @@ android {
     namespace 'com.example.androidsample'
     compileSdk 32
 
+    buildFeatures {
+        viewBinding true
+    }
+
     defaultConfig {
         applicationId "com.example.androidsample"
         minSdk 31
