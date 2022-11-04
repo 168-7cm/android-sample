@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidSample</string>
+    <string name="spnOs_prompt">OSを選択してください</string>
+    <array name="spnOs_items">
+        <item>Windows</item>
+        <item>Linux</item>
+        <item>MacOs</item>
+    </array>
 </resources>
