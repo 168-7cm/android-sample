@@ -10,7 +10,6 @@
         android:id="@+id/spinner"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:entries="@array/spnOs_items"
         android:minHeight="32dp"
         android:prompt="@string/spnOs_prompt"
         android:spinnerMode="dialog"
